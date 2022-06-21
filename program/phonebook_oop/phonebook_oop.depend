@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1587900663 source:r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1587900663 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1587984718 source:r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\string.cpp
+	<iostream>
+	<cstring>
+	"string.h"
+
+1587984622 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\string.h
+	<iostream>
+
+1587993849 source:r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\main.cpp
+	<iostream>
+	"array.hpp"
+	"contact.hpp"
+	"phonebook.hpp"
+	"phonebook.cpp"
+	"stored_types.hpp"
+	"string.h"
+
+1587993378 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\array.hpp
+	<stddef.h>
+	"contact.hpp"
+
+1587992302 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\contact.hpp
+	<iostream>
+	"string.h"
+	"stored_types.hpp"
+
+1587993885 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\stored_types.hpp
+	<iostream>
+	"string.h"
+
+1587993388 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\phonebook.hpp
+	"array.hpp"
+	"contact.hpp"
+	<iostream>
+
+1587993396 source:r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\phonebook.cpp
+	"phonebook.hpp"
+	"contact.hpp"
+
+1587993396 r:\bme-vik\felev2\prog2\aaa_nhf\program\phonebook_oop\phonebook.cpp
+	"phonebook.hpp"
+	"contact.hpp"
+
