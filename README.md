@@ -1,1 +1,1 @@
-"# Telefonkonvy_CPP_Felev2" 
+"# Telefonkönyv alkalmazás C++ nyelven, objektumorientált alapokon megvalósítva" 
